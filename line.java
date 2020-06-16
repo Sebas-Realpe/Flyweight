@@ -1,4 +1,3 @@
-Copy
 package com.journaldev.design.flyweight;
 import java.awt.Color;
 import java.awt.Graphics;
